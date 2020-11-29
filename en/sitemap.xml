@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://newvertex.ir/en/archive/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://newvertex.ir/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://newvertex.ir/en/archive/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://newvertex.ir/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://newvertex.ir/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://newvertex.ir/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://newvertex.ir/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://newvertex.ir/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://newvertex.ir/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://newvertex.ir/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://newvertex.ir/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://newvertex.ir/en/tags/"
+                />
+  </url>
+  
+</urlset>

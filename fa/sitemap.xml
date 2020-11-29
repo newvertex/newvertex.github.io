@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://newvertex.ir/</loc>
+    <lastmod>2020-11-29T14:02:42+03:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://newvertex.ir/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://newvertex.ir/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://newvertex.ir/posts/</loc>
+    <lastmod>2020-11-29T14:02:42+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://newvertex.ir/tags/</loc>
+    <lastmod>2020-11-29T14:02:42+03:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://newvertex.ir/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://newvertex.ir/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://newvertex.ir/tags/%D8%AE%D9%88%D8%AF%D9%85%D9%88%D9%86%DB%8C/</loc>
+    <lastmod>2020-11-29T14:02:42+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://newvertex.ir/tags/%D8%B3%D9%84%D8%A7%D9%85-%D8%AF%D9%86%DB%8C%D8%A7/</loc>
+    <lastmod>2020-11-29T14:02:42+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://newvertex.ir/posts/01-hello-world/</loc>
+    <lastmod>2020-11-29T14:02:42+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://newvertex.ir/about/</loc>
+    <lastmod>2020-11-28T13:58:08+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://newvertex.ir/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://newvertex.ir/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://newvertex.ir/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://newvertex.ir/archive/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://newvertex.ir/en/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://newvertex.ir/archive/"
+                />
+  </url>
+  
+</urlset>

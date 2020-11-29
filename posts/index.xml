@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on newvertex</title>
+    <link>https://newvertex.ir/posts/</link>
+    <description>Recent content in Posts on newvertex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa-ir</language>
+    <copyright>&amp;#8206;&amp;copy; 2020 [newvertex](/)</copyright>
+    <lastBuildDate>Sun, 29 Nov 2020 14:02:42 +0330</lastBuildDate><atom:link href="https://newvertex.ir/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>سلام دنیا!</title>
+      <link>https://newvertex.ir/posts/01-hello-world/</link>
+      <pubDate>Sun, 29 Nov 2020 14:02:42 +0330</pubDate>
+      
+      <guid>https://newvertex.ir/posts/01-hello-world/</guid>
+      <description>« خالق تو را شاد آفرید، آزاد آزاد آفرید
+پرواز کـن تا آرزو، زنجیر را باور نکن »
+سلام دنیا! همیشه اولین چیزی که یه برنامه‌نویس موقعی که میخواد زبان جدید یاد بگیره می‌نویسه &amp;ldquo;سلام دنیا&amp;rdquo; هستش.
+درواقع میشه گفت همیشه اولین پروژه‌ها سلام دنیا هستن، شاید میخوایم اول از همه به کل دنیا سلام کنیم! یا اینکه به همه دنیا بگیم که میخوایم یه شروع جدید و تازه داشته باشیم!</description>
+    </item>
+    
+  </channel>
+</rss>
